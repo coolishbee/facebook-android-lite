@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">facebook-android-lite</string>
+
+    <string name="facebook_login">페이스북 로그인</string>
 </resources>
